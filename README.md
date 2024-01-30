@@ -34,7 +34,7 @@
  <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" height="30" alt="next logo" />
  <img width="12" />
-  <img src="https://profile-readme-generator.com/" height="30" alt="express logo" />
+  <img src="https://miro.medium.com/v2/resize:fit:365/1*Jr3NFSKTfQWRUyjblBSKeg.png" height="30" alt="express logo" />
  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="30" alt="postman logo" />
  <img width="12" />
