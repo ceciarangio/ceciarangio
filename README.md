@@ -27,6 +27,18 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" height="30" alt="angular logo" />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" height="30" alt="sass logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" height="30" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/374167/vite.svg" height="30" alt="vite logo" />
+ <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" height="30" alt="next logo" />
+ <img width="12" />
+  <img src="https://profile-readme-generator.com/" height="30" alt="express logo" />
+ <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="30" alt="postman logo" />
+ <img width="12" />
+  <img src="https://cloudinary-res.cloudinary.com/image/upload/website/cloudinary_web_favicon.png" height="30" alt="cloudinary logo" />
 </div>
 
 ###
